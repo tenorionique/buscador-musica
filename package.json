@@ -1,0 +1,28 @@
+{
+  "name": "buscador-musica",
+  "version": "1.0.0",
+  "description": "projeto feito em javascript puro para fins de estudo",
+  "main": "src/index.js",
+  "dependencies": {
+    "jest": "^27.4.3",
+    "serve": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenorionique/buscador-musica.git"
+  },
+  "keywords": [
+    "buscador"
+  ],
+  "author": "monique_doretto <monique_doretto@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenorionique/buscador-musica/issues"
+  },
+  "homepage": "https://github.com/tenorionique/buscador-musica#readme"
+}
